@@ -1,0 +1,62 @@
+<div class="container-fluid d-flex flex-column bg-dark">
+    <div class="row my-2">
+        <div id="brand" class="col d-flex align-items-center">
+            <button type="button" class="nav-brand">
+                <img src="../assets/images/icon.png" alt="" width="35" height="35" class="me-2">Project A</button>
+            <button id="toggleNav" type="button" class="nav-brand" data-bs-target="#smallNav" aria-controls="smallNav">
+                <img src="../assets/images/menu.png" alt="" width="30" height="30" class="me-2">
+            </button>
+        </div>
+        <div id="collapseNav" class="col-6 justify-content-evenly align-items-center">
+            <button id="for-you" type="button" class="nav-btn"> For You </button>
+            <button id="dashboard" type="button" class="nav-btn"> Dashboard </button>
+            <button id="courses" type="button" class="nav-btn"> Courses </button>
+        </div>
+        <div id="collapseNav" class="col-3 justify-content-center align-items-center">
+            <div class="dropdown">
+                <button type="button" class="nav-btn dropdown-toggle" id="dropdownMenuLink" data-bs-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    User
+                </button>
+                <div class="px-1 dropdown-menu bg-dark" aria-labelledby="dropdownMenuLink">
+                    <button type="button" class="nav-btn w-100">
+                        Profile
+                    </button>
+                    <button type="button" class="btn-danger nav-btn w-100">
+                        Log Out
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="smallNav" class="container-fluid flex-column bg-dark p-1" style="display: none;">
+    <div>
+        <button type="button" class="nav-btn" style="text-align: left; width: 100%;"> For You </button>
+    </div>
+    <div>
+        <button type="button" class="nav-btn" style="text-align: left; width: 100%;"> Dashboard </button>
+    </div>
+    <div>
+        <button type="button" class="nav-btn" style="text-align: left; width: 100%;"> Courses </button>
+    </div>
+    <button type="button" class="nav-btn" style="text-align: left; width: 100%;">
+        Profile
+    </button>
+    <button type="button" class="nav-btn" style="text-align: left; width: 100%;">
+        Log Out
+    </button>
+</div>
+
+<script>
+    // JavaScript to toggle the visibility
+    document.getElementById('toggleNav').addEventListener('click', function () {
+        var content = document.getElementById('smallNav');
+        if (content.style.display === 'none') {
+            content.style.display = 'flex';
+        } else {
+            content.style.display = 'none';
+        }
+    });
+</script>

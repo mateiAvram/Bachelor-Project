@@ -1,0 +1,501 @@
+id,title,category,duration,tags,publish_date,vector
+344,Video Title 344,arts chemistry,31000,,2023-12-31 15:55:32,1 0 0 1 0 0 0 0 0 0
+1597,Video Title 1597,arts biology computer_science,59000,,2023-12-31 15:12:02,1 1 0 0 1 0 0 0 0 0
+1356,Video Title 1356,literature psychology,53000,,2023-12-30 10:30:28,0 0 0 0 0 1 0 0 0 1
+131,Video Title 131,computer_science,50000,,2023-12-29 09:08:39,0 0 0 0 1 0 0 0 0 0
+3785,Video Title 3785,business mathematics physics,50000,,2023-12-28 04:09:55,0 0 1 0 0 0 1 0 1 0
+2560,Video Title 2560,biology business chemistry,58000,,2023-12-27 08:35:17,0 1 1 1 0 0 0 0 0 0
+1011,Video Title 1011,chemistry mathematics,59000,,2023-12-26 23:53:12,0 0 0 1 0 0 1 0 0 0
+697,Video Title 697,biology music,31000,,2023-12-26 20:11:59,0 1 0 0 0 0 0 1 0 0
+3021,Video Title 3021,biology computer_science physics,47000,,2023-12-26 06:46:51,0 1 0 0 1 0 0 0 1 0
+985,Video Title 985,chemistry literature,49000,,2023-12-25 05:59:32,0 0 0 1 0 1 0 0 0 0
+1546,Video Title 1546,arts biology business,41000,,2023-12-23 14:45:31,1 1 1 0 0 0 0 0 0 0
+3480,Video Title 3480,business chemistry psychology,39000,,2023-12-22 17:08:57,0 0 1 1 0 0 0 0 0 1
+3073,Video Title 3073,biology literature mathematics,53000,,2023-12-22 09:22:32,0 1 0 0 0 1 1 0 0 0
+1015,Video Title 1015,chemistry mathematics,44000,,2023-12-22 00:11:11,0 0 0 1 0 0 1 0 0 0
+1208,Video Title 1208,computer_science physics,31000,,2023-12-21 16:14:59,0 0 0 0 1 0 0 0 1 0
+860,Video Title 860,business mathematics,53000,,2023-12-21 15:34:34,0 0 1 0 0 0 1 0 0 0
+3637,Video Title 3637,business computer_science psychology,50000,,2023-12-21 02:35:01,0 0 1 0 1 0 0 0 0 1
+485,Video Title 485,arts physics,35000,,2023-12-20 20:25:24,1 0 0 0 0 0 0 0 1 0
+2710,Video Title 2710,biology business physics,32000,,2023-12-20 09:10:54,0 1 1 0 0 0 0 0 1 0
+4320,Video Title 4320,chemistry physics psychology,41000,,2023-12-20 02:22:28,0 0 0 1 0 0 0 0 1 1
+2449,Video Title 2449,arts mathematics psychology,45000,,2023-12-19 16:52:58,1 0 0 0 0 0 1 0 0 1
+4145,Video Title 4145,chemistry literature psychology,39000,,2023-12-18 05:32:45,0 0 0 1 0 1 0 0 0 1
+2212,Video Title 2212,arts computer_science music,40000,,2023-12-17 21:46:08,1 0 0 0 1 0 0 1 0 0
+64,Video Title 64,business,49000,,2023-12-17 20:13:58,0 0 1 0 0 0 0 0 0 0
+169,Video Title 169,mathematics,48000,,2023-12-17 18:02:55,0 0 0 0 0 0 1 0 0 0
+1092,Video Title 1092,chemistry physics,45000,,2023-12-17 06:55:13,0 0 0 1 0 0 0 0 1 0
+3657,Video Title 3657,business literature mathematics,60000,,2023-12-16 19:01:32,0 0 1 0 0 1 1 0 0 0
+3165,Video Title 3165,biology mathematics music,43000,,2023-12-16 06:04:33,0 1 0 0 0 0 1 1 0 0
+2211,Video Title 2211,arts computer_science music,51000,,2023-12-15 11:22:59,1 0 0 0 1 0 0 1 0 0
+3600,Video Title 3600,business computer_science physics,59000,,2023-12-14 15:40:11,0 0 1 0 1 0 0 0 1 0
+4812,Video Title 4812,mathematics music physics,57000,,2023-12-14 03:19:38,0 0 0 0 0 0 1 1 1 0
+976,Video Title 976,chemistry computer_science,49000,,2023-12-14 02:35:57,0 0 0 1 1 0 0 0 0 0
+2151,Video Title 2151,arts computer_science literature,52000,,2023-12-12 20:25:36,1 0 0 0 1 1 0 0 0 0
+2225,Video Title 2225,arts computer_science physics,49000,,2023-12-12 13:59:18,1 0 0 0 1 0 0 0 1 0
+706,Video Title 706,biology physics,42000,,2023-12-12 09:23:29,0 1 0 0 0 0 0 0 1 0
+4344,Video Title 4344,computer_science literature mathematics,53000,,2023-12-12 03:53:59,0 0 0 0 1 1 1 0 0 0
+909,Video Title 909,business physics,42000,,2023-12-12 00:25:14,0 0 1 0 0 0 0 0 1 0
+438,Video Title 438,arts mathematics,32000,,2023-12-09 19:13:39,1 0 0 0 0 0 1 0 0 0
+4513,Video Title 4513,computer_science mathematics psychology,60000,,2023-12-09 06:00:35,0 0 0 0 1 0 1 0 0 1
+4524,Video Title 4524,computer_science mathematics psychology,38000,,2023-12-08 20:51:47,0 0 0 0 1 0 1 0 0 1
+3547,Video Title 3547,business computer_science mathematics,54000,,2023-12-08 14:05:46,0 0 1 0 1 0 1 0 0 0
+3578,Video Title 3578,business computer_science music,52000,,2023-12-07 05:37:14,0 0 1 0 1 0 0 1 0 0
+1707,Video Title 1707,arts biology music,50000,,2023-12-06 05:33:27,1 1 0 0 0 0 0 1 0 0
+594,Video Title 594,biology computer_science,39000,,2023-12-05 07:49:22,0 1 0 0 1 0 0 0 0 0
+3116,Video Title 3116,biology literature physics,53000,,2023-12-03 21:39:59,0 1 0 0 0 1 0 0 1 0
+513,Video Title 513,arts psychology,37000,,2023-12-03 17:43:31,1 0 0 0 0 0 0 0 0 1
+4118,Video Title 4118,chemistry literature physics,41000,,2023-12-02 14:25:40,0 0 0 1 0 1 0 0 1 0
+4594,Video Title 4594,computer_science physics psychology,46000,,2023-12-02 12:32:23,0 0 0 0 1 0 0 0 1 1
+1680,Video Title 1680,arts biology mathematics,30000,,2023-12-02 05:01:46,1 1 0 0 0 0 1 0 0 0
+1916,Video Title 1916,arts business physics,56000,,2023-12-01 03:04:20,1 0 1 0 0 0 0 0 1 0
+4186,Video Title 4186,chemistry mathematics music,47000,,2023-11-30 05:16:33,0 0 0 1 0 0 1 1 0 0
+4650,Video Title 4650,literature mathematics physics,39000,,2023-11-29 05:21:39,0 0 0 0 0 1 1 0 1 0
+1126,Video Title 1126,computer_science literature,42000,,2023-11-27 17:56:18,0 0 0 0 1 1 0 0 0 0
+3528,Video Title 3528,business computer_science literature,51000,,2023-11-26 19:57:32,0 0 1 0 1 1 0 0 0 0
+3147,Video Title 3147,biology literature psychology,56000,,2023-11-26 19:40:29,0 1 0 0 0 1 0 0 0 1
+1387,Video Title 1387,mathematics music,47000,,2023-11-26 16:20:31,0 0 0 0 0 0 1 1 0 0
+1622,Video Title 1622,arts biology computer_science,36000,,2023-11-24 16:21:13,1 1 0 0 1 0 0 0 0 0
+1896,Video Title 1896,arts business music,30000,,2023-11-23 07:45:24,1 0 1 0 0 0 0 1 0 0
+2257,Video Title 2257,arts computer_science psychology,44000,,2023-11-20 15:08:07,1 0 0 0 1 0 0 0 0 1
+3923,Video Title 3923,chemistry computer_science literature,45000,,2023-11-19 14:18:02,0 0 0 1 1 1 0 0 0 0
+2136,Video Title 2136,arts computer_science literature,40000,,2023-11-19 12:25:14,1 0 0 0 1 1 0 0 0 0
+939,Video Title 939,business psychology,55000,,2023-11-19 09:50:17,0 0 1 0 0 0 0 0 0 1
+2043,Video Title 2043,arts chemistry mathematics,32000,,2023-11-19 05:19:20,1 0 0 1 0 0 1 0 0 0
+3196,Video Title 3196,biology mathematics physics,51000,,2023-11-19 02:07:24,0 1 0 0 0 0 1 0 1 0
+1078,Video Title 1078,chemistry physics,53000,,2023-11-18 06:50:49,0 0 0 1 0 0 0 0 1 0
+3097,Video Title 3097,biology literature music,35000,,2023-11-16 22:18:28,0 1 0 0 0 1 0 1 0 0
+3992,Video Title 3992,chemistry computer_science music,58000,,2023-11-16 16:09:35,0 0 0 1 1 0 0 1 0 0
+679,Video Title 679,biology music,34000,,2023-11-16 11:23:30,0 1 0 0 0 0 0 1 0 0
+1741,Video Title 1741,arts biology psychology,60000,,2023-11-15 21:17:05,1 1 0 0 0 0 0 0 0 1
+1115,Video Title 1115,chemistry psychology,55000,,2023-11-13 18:35:57,0 0 0 1 0 0 0 0 0 1
+3717,Video Title 3717,business literature physics,54000,,2023-11-13 18:06:50,0 0 1 0 0 1 0 0 1 0
+3924,Video Title 3924,chemistry computer_science literature,46000,,2023-11-13 05:31:09,0 0 0 1 1 1 0 0 0 0
+1017,Video Title 1017,chemistry mathematics,57000,,2023-11-12 23:56:24,0 0 0 1 0 0 1 0 0 0
+3463,Video Title 3463,business chemistry physics,49000,,2023-11-12 10:32:11,0 0 1 1 0 0 0 0 1 0
+3296,Video Title 3296,biology music psychology,55000,,2023-11-11 21:59:29,0 1 0 0 0 0 0 1 0 1
+1279,Video Title 1279,literature mathematics,32000,,2023-11-11 09:37:22,0 0 0 0 0 1 1 0 0 0
+4131,Video Title 4131,chemistry literature physics,30000,,2023-11-10 00:59:41,0 0 0 1 0 1 0 0 1 0
+4732,Video Title 4732,literature music physics,47000,,2023-11-08 09:02:36,0 0 0 0 0 1 0 1 1 0
+1025,Video Title 1025,chemistry mathematics,33000,,2023-11-07 17:36:39,0 0 0 1 0 0 1 0 0 0
+4037,Video Title 4037,chemistry computer_science psychology,54000,,2023-11-05 20:04:36,0 0 0 1 1 0 0 0 0 1
+889,Video Title 889,business music,48000,,2023-11-05 04:55:33,0 0 1 0 0 0 0 1 0 0
+2768,Video Title 2768,biology chemistry computer_science,35000,,2023-11-05 00:58:27,0 1 0 1 1 0 0 0 0 0
+3037,Video Title 3037,biology computer_science psychology,39000,,2023-11-05 00:57:05,0 1 0 0 1 0 0 0 0 1
+2040,Video Title 2040,arts chemistry mathematics,60000,,2023-11-04 22:38:09,1 0 0 1 0 0 1 0 0 0
+4791,Video Title 4791,mathematics music physics,36000,,2023-11-04 13:29:09,0 0 0 0 0 0 1 1 1 0
+1561,Video Title 1561,arts biology business,59000,,2023-11-03 05:40:52,1 1 1 0 0 0 0 0 0 0
+3214,Video Title 3214,biology mathematics physics,42000,,2023-11-02 23:33:51,0 1 0 0 0 0 1 0 1 0
+4777,Video Title 4777,literature physics psychology,52000,,2023-11-02 20:29:09,0 0 0 0 0 1 0 0 1 1
+3506,Video Title 3506,business computer_science literature,57000,,2023-11-02 09:20:59,0 0 1 0 1 1 0 0 0 0
+3341,Video Title 3341,business chemistry computer_science,40000,,2023-11-02 05:00:14,0 0 1 1 1 0 0 0 0 0
+2396,Video Title 2396,arts mathematics music,35000,,2023-11-01 21:26:15,1 0 0 0 0 0 1 1 0 0
+2037,Video Title 2037,arts chemistry mathematics,51000,,2023-10-30 01:19:02,1 0 0 1 0 0 1 0 0 0
+1914,Video Title 1914,arts business physics,57000,,2023-10-29 17:25:19,1 0 1 0 0 0 0 0 1 0
+1231,Video Title 1231,computer_science physics,35000,,2023-10-26 03:37:22,0 0 0 0 1 0 0 0 1 0
+1366,Video Title 1366,literature psychology,55000,,2023-10-24 19:29:48,0 0 0 0 0 1 0 0 0 1
+4034,Video Title 4034,chemistry computer_science psychology,41000,,2023-10-24 17:58:42,0 0 0 1 1 0 0 0 0 1
+3813,Video Title 3813,business mathematics psychology,34000,,2023-10-24 13:38:31,0 0 1 0 0 0 1 0 0 1
+4000,Video Title 4000,chemistry computer_science music,34000,,2023-10-24 01:11:53,0 0 0 1 1 0 0 1 0 0
+661,Video Title 661,biology mathematics,33000,,2023-10-23 09:16:05,0 1 0 0 0 0 1 0 0 0
+544,Video Title 544,biology business,50000,,2023-10-22 23:40:08,0 1 1 0 0 0 0 0 0 0
+3886,Video Title 3886,business music psychology,54000,,2023-10-22 12:25:28,0 0 1 0 0 0 0 1 0 1
+3433,Video Title 3433,business chemistry music,55000,,2023-10-20 17:58:40,0 0 1 1 0 0 0 1 0 0
+4573,Video Title 4573,computer_science music psychology,50000,,2023-10-20 04:07:25,0 0 0 0 1 0 0 1 0 1
+628,Video Title 628,biology literature,51000,,2023-10-19 18:56:25,0 1 0 0 0 1 0 0 0 0
+4701,Video Title 4701,literature mathematics psychology,33000,,2023-10-19 05:15:48,0 0 0 0 0 1 1 0 0 1
+3306,Video Title 3306,biology physics psychology,39000,,2023-10-17 06:58:15,0 1 0 0 0 0 0 0 1 1
+566,Video Title 566,biology chemistry,43000,,2023-10-13 22:23:05,0 1 0 1 0 0 0 0 0 0
+3500,Video Title 3500,business chemistry psychology,31000,,2023-10-13 13:15:00,0 0 1 1 0 0 0 0 0 1
+3873,Video Title 3873,business music psychology,40000,,2023-10-12 18:46:35,0 0 1 0 0 0 0 1 0 1
+2296,Video Title 2296,arts literature mathematics,37000,,2023-10-12 07:39:03,1 0 0 0 0 1 1 0 0 0
+1735,Video Title 1735,arts biology physics,58000,,2023-10-11 14:15:09,1 1 0 0 0 0 0 0 1 0
+4058,Video Title 4058,chemistry computer_science psychology,48000,,2023-10-11 03:12:24,0 0 0 1 1 0 0 0 0 1
+3715,Video Title 3715,business literature physics,46000,,2023-10-08 06:56:00,0 0 1 0 0 1 0 0 1 0
+417,Video Title 417,arts literature,48000,,2023-10-07 14:46:30,1 0 0 0 0 1 0 0 0 0
+2475,Video Title 2475,arts music physics,58000,,2023-10-06 05:12:55,1 0 0 0 0 0 0 1 1 0
+1944,Video Title 1944,arts business psychology,34000,,2023-10-04 21:23:41,1 0 1 0 0 0 0 0 0 1
+2411,Video Title 2411,arts mathematics physics,55000,,2023-10-04 18:04:13,1 0 0 0 0 0 1 0 1 0
+2709,Video Title 2709,biology business physics,30000,,2023-10-04 02:34:51,0 1 1 0 0 0 0 0 1 0
+3882,Video Title 3882,business music psychology,47000,,2023-10-03 22:39:02,0 0 1 0 0 0 0 1 0 1
+3875,Video Title 3875,business music psychology,47000,,2023-10-03 10:47:36,0 0 1 0 0 0 0 1 0 1
+1079,Video Title 1079,chemistry physics,41000,,2023-10-03 02:46:24,0 0 0 1 0 0 0 0 1 0
+3242,Video Title 3242,biology mathematics psychology,55000,,2023-10-02 10:46:07,0 1 0 0 0 0 1 0 0 1
+1778,Video Title 1778,arts business chemistry,52000,,2023-10-01 22:25:53,1 0 1 1 0 0 0 0 0 0
+3485,Video Title 3485,business chemistry psychology,43000,,2023-10-01 15:48:44,0 0 1 1 0 0 0 0 0 1
+2921,Video Title 2921,biology computer_science literature,54000,,2023-10-01 15:33:57,0 1 0 0 1 1 0 0 0 0
+4534,Video Title 4534,computer_science mathematics psychology,33000,,2023-09-30 12:11:40,0 0 0 0 1 0 1 0 0 1
+2919,Video Title 2919,biology computer_science literature,33000,,2023-09-30 06:49:43,0 1 0 0 1 1 0 0 0 0
+4841,Video Title 4841,mathematics music psychology,32000,,2023-09-30 00:26:26,0 0 0 0 0 0 1 1 0 1
+3952,Video Title 3952,chemistry computer_science mathematics,45000,,2023-09-29 01:03:58,0 0 0 1 1 0 1 0 0 0
+4285,Video Title 4285,chemistry music psychology,32000,,2023-09-28 13:34:31,0 0 0 1 0 0 0 1 0 1
+1908,Video Title 1908,arts business physics,37000,,2023-09-28 00:38:09,1 0 1 0 0 0 0 0 1 0
+4452,Video Title 4452,computer_science literature psychology,56000,,2023-09-27 19:33:27,0 0 0 0 1 1 0 0 0 1
+1426,Video Title 1426,mathematics physics,57000,,2023-09-27 12:21:42,0 0 0 0 0 0 1 0 1 0
+599,Video Title 599,biology computer_science,53000,,2023-09-26 15:36:24,0 1 0 0 1 0 0 0 0 0
+4027,Video Title 4027,chemistry computer_science physics,30000,,2023-09-26 13:35:58,0 0 0 1 1 0 0 0 1 0
+2935,Video Title 2935,biology computer_science literature,36000,,2023-09-25 10:48:27,0 1 0 0 1 1 0 0 0 0
+2594,Video Title 2594,biology business computer_science,42000,,2023-09-23 06:15:06,0 1 1 0 1 0 0 0 0 0
+4575,Video Title 4575,computer_science music psychology,46000,,2023-09-23 05:06:59,0 0 0 0 1 0 0 1 0 1
+2078,Video Title 2078,arts chemistry physics,33000,,2023-09-22 14:42:21,1 0 0 1 0 0 0 0 1 0
+204,Video Title 204,music,55000,,2023-09-21 12:23:34,0 0 0 0 0 0 0 1 0 0
+1664,Video Title 1664,arts biology mathematics,53000,,2023-09-21 08:21:56,1 1 0 0 0 0 1 0 0 0
+1139,Video Title 1139,computer_science literature,55000,,2023-09-21 00:10:52,0 0 0 0 1 1 0 0 0 0
+4773,Video Title 4773,literature physics psychology,41000,,2023-09-20 22:37:07,0 0 0 0 0 1 0 0 1 1
+1811,Video Title 1811,arts business computer_science,48000,,2023-09-20 06:44:18,1 0 1 0 1 0 0 0 0 0
+752,Video Title 752,biology psychology,50000,,2023-09-20 02:35:02,0 1 0 0 0 0 0 0 0 1
+4506,Video Title 4506,computer_science mathematics physics,55000,,2023-09-16 22:29:15,0 0 0 0 1 0 1 0 1 0
+234,Video Title 234,physics,58000,,2023-09-14 23:05:36,0 0 0 0 0 0 0 0 1 0
+3918,Video Title 3918,business physics psychology,53000,,2023-09-14 19:35:41,0 0 1 0 0 0 0 0 1 1
+3881,Video Title 3881,business music psychology,30000,,2023-09-14 01:09:15,0 0 1 0 0 0 0 1 0 1
+2311,Video Title 2311,arts literature music,40000,,2023-09-14 00:42:22,1 0 0 0 0 1 0 1 0 0
+3761,Video Title 3761,business mathematics music,48000,,2023-09-13 23:53:59,0 0 1 0 0 0 1 1 0 0
+2947,Video Title 2947,biology computer_science mathematics,59000,,2023-09-12 05:29:22,0 1 0 0 1 0 1 0 0 0
+4548,Video Title 4548,computer_science music physics,44000,,2023-09-12 04:10:19,0 0 0 0 1 0 0 1 1 0
+3339,Video Title 3339,business chemistry computer_science,32000,,2023-09-12 02:07:27,0 0 1 1 1 0 0 0 0 0
+3885,Video Title 3885,business music psychology,39000,,2023-09-12 01:26:48,0 0 1 0 0 0 0 1 0 1
+2862,Video Title 2862,biology chemistry physics,34000,,2023-09-11 19:54:08,0 1 0 1 0 0 0 0 1 0
+554,Video Title 554,biology business,55000,,2023-09-10 14:14:16,0 1 1 0 0 0 0 0 0 0
+1976,Video Title 1976,arts chemistry computer_science,43000,,2023-09-10 05:19:11,1 0 0 1 1 0 0 0 0 0
+487,Video Title 487,arts physics,45000,,2023-09-10 01:14:19,1 0 0 0 0 0 0 0 1 0
+3193,Video Title 3193,biology mathematics physics,54000,,2023-09-09 04:12:03,0 1 0 0 0 0 1 0 1 0
+1502,Video Title 1502,music psychology,42000,,2023-09-08 20:19:45,0 0 0 0 0 0 0 1 0 1
+2586,Video Title 2586,biology business computer_science,52000,,2023-09-07 19:28:00,0 1 1 0 1 0 0 0 0 0
+1668,Video Title 1668,arts biology mathematics,36000,,2023-09-06 16:03:49,1 1 0 0 0 0 1 0 0 0
+4327,Video Title 4327,chemistry physics psychology,34000,,2023-09-06 09:51:51,0 0 0 1 0 0 0 0 1 1
+4639,Video Title 4639,literature mathematics music,34000,,2023-09-06 07:35:10,0 0 0 0 0 1 1 1 0 0
+1338,Video Title 1338,literature physics,43000,,2023-09-05 10:04:12,0 0 0 0 0 1 0 0 1 0
+3544,Video Title 3544,business computer_science mathematics,32000,,2023-09-03 19:28:39,0 0 1 0 1 0 1 0 0 0
+4787,Video Title 4787,literature physics psychology,45000,,2023-09-03 15:10:26,0 0 0 0 0 1 0 0 1 1
+3595,Video Title 3595,business computer_science physics,55000,,2023-09-03 03:41:54,0 0 1 0 1 0 0 0 1 0
+1138,Video Title 1138,computer_science literature,38000,,2023-09-02 19:23:34,0 0 0 0 1 1 0 0 0 0
+229,Video Title 229,physics,32000,,2023-09-02 03:29:07,0 0 0 0 0 0 0 0 1 0
+1536,Video Title 1536,physics psychology,42000,,2023-09-01 20:39:19,0 0 0 0 0 0 0 0 1 1
+626,Video Title 626,biology literature,54000,,2023-08-31 17:25:06,0 1 0 0 0 1 0 0 0 0
+2131,Video Title 2131,arts computer_science literature,51000,,2023-08-31 16:07:32,1 0 0 0 1 1 0 0 0 0
+3279,Video Title 3279,biology music psychology,35000,,2023-08-30 23:17:23,0 1 0 0 0 0 0 1 0 1
+1580,Video Title 1580,arts biology chemistry,46000,,2023-08-29 14:16:35,1 1 0 1 0 0 0 0 0 0
+2412,Video Title 2412,arts mathematics physics,40000,,2023-08-29 06:59:22,1 0 0 0 0 0 1 0 1 0
+1537,Video Title 1537,physics psychology,40000,,2023-08-28 20:47:23,0 0 0 0 0 0 0 0 1 1
+2029,Video Title 2029,arts chemistry mathematics,43000,,2023-08-28 12:59:12,1 0 0 1 0 0 1 0 0 0
+379,Video Title 379,arts computer_science,46000,,2023-08-27 23:29:55,1 0 0 0 1 0 0 0 0 0
+1958,Video Title 1958,arts business psychology,54000,,2023-08-26 22:06:47,1 0 1 0 0 0 0 0 0 1
+2058,Video Title 2058,arts chemistry music,54000,,2023-08-25 15:15:13,1 0 0 1 0 0 0 1 0 0
+545,Video Title 545,biology business,45000,,2023-08-25 14:37:14,0 1 1 0 0 0 0 0 0 0
+358,Video Title 358,arts chemistry,35000,,2023-08-25 05:32:22,1 0 0 1 0 0 0 0 0 0
+2688,Video Title 2688,biology business music,42000,,2023-08-24 16:21:14,0 1 1 0 0 0 0 1 0 0
+848,Video Title 848,business mathematics,51000,,2023-08-24 02:19:06,0 0 1 0 0 0 1 0 0 0
+1288,Video Title 1288,literature mathematics,51000,,2023-08-23 03:02:50,0 0 0 0 0 1 1 0 0 0
+696,Video Title 696,biology music,50000,,2023-08-22 16:41:37,0 1 0 0 0 0 0 1 0 0
+2569,Video Title 2569,biology business chemistry,57000,,2023-08-22 14:25:24,0 1 1 1 0 0 0 0 0 0
+4469,Video Title 4469,computer_science mathematics music,44000,,2023-08-22 02:44:16,0 0 0 0 1 0 1 1 0 0
+2355,Video Title 2355,arts literature psychology,34000,,2023-08-22 01:40:35,1 0 0 0 0 1 0 0 0 1
+4193,Video Title 4193,chemistry mathematics music,31000,,2023-08-21 19:43:53,0 0 0 1 0 0 1 1 0 0
+2369,Video Title 2369,arts literature psychology,42000,,2023-08-21 02:47:38,1 0 0 0 0 1 0 0 0 1
+4724,Video Title 4724,literature music physics,47000,,2023-08-20 16:22:57,0 0 0 0 0 1 0 1 1 0
+4223,Video Title 4223,chemistry mathematics physics,37000,,2023-08-20 02:25:25,0 0 0 1 0 0 1 0 1 0
+1967,Video Title 1967,arts chemistry computer_science,58000,,2023-08-19 05:46:30,1 0 0 1 1 0 0 0 0 0
+4891,Video Title 4891,music physics psychology,48000,,2023-08-19 04:29:03,0 0 0 0 0 0 0 1 1 1
+4689,Video Title 4689,literature mathematics psychology,35000,,2023-08-16 16:12:16,0 0 0 0 0 1 1 0 0 1
+2273,Video Title 2273,arts literature mathematics,42000,,2023-08-16 10:20:59,1 0 0 0 0 1 1 0 0 0
+477,Video Title 477,arts physics,37000,,2023-08-14 23:24:45,1 0 0 0 0 0 0 0 1 0
+3503,Video Title 3503,business computer_science literature,45000,,2023-08-14 08:13:36,0 0 1 0 1 1 0 0 0 0
+3031,Video Title 3031,biology computer_science psychology,41000,,2023-08-14 00:41:43,0 1 0 0 1 0 0 0 0 1
+2927,Video Title 2927,biology computer_science literature,51000,,2023-08-12 10:20:14,0 1 0 0 1 1 0 0 0 0
+3174,Video Title 3174,biology mathematics music,43000,,2023-08-12 08:47:09,0 1 0 0 0 0 1 1 0 0
+4707,Video Title 4707,literature music physics,49000,,2023-08-12 02:24:14,0 0 0 0 0 1 0 1 1 0
+4737,Video Title 4737,literature music psychology,44000,,2023-08-12 01:37:30,0 0 0 0 0 1 0 1 0 1
+3252,Video Title 3252,biology music physics,54000,,2023-08-11 12:37:53,0 1 0 0 0 0 0 1 1 0
+375,Video Title 375,arts computer_science,43000,,2023-08-10 20:59:27,1 0 0 0 1 0 0 0 0 0
+3520,Video Title 3520,business computer_science literature,41000,,2023-08-10 02:55:19,0 0 1 0 1 1 0 0 0 0
+1004,Video Title 1004,chemistry literature,37000,,2023-08-09 21:33:23,0 0 0 1 0 1 0 0 0 0
+2503,Video Title 2503,arts music psychology,39000,,2023-08-08 11:45:41,1 0 0 0 0 0 0 1 0 1
+3032,Video Title 3032,biology computer_science psychology,44000,,2023-08-07 08:37:12,0 1 0 0 1 0 0 0 0 1
+1413,Video Title 1413,mathematics physics,41000,,2023-08-05 10:29:12,0 0 0 0 0 0 1 0 1 0
+2797,Video Title 2797,biology chemistry literature,55000,,2023-08-04 21:21:28,0 1 0 1 0 1 0 0 0 0
+3817,Video Title 3817,business mathematics psychology,57000,,2023-08-04 17:29:12,0 0 1 0 0 0 1 0 0 1
+4759,Video Title 4759,literature music psychology,44000,,2023-08-04 07:45:31,0 0 0 0 0 1 0 1 0 1
+2455,Video Title 2455,arts mathematics psychology,37000,,2023-08-03 23:21:39,1 0 0 0 0 0 1 0 0 1
+3835,Video Title 3835,business mathematics psychology,39000,,2023-08-01 15:16:11,0 0 1 0 0 0 1 0 0 1
+4674,Video Title 4674,literature mathematics physics,31000,,2023-07-31 23:45:48,0 0 0 0 0 1 1 0 1 0
+4290,Video Title 4290,chemistry music psychology,32000,,2023-07-31 19:40:44,0 0 0 1 0 0 0 1 0 1
+832,Video Title 832,business literature,34000,,2023-07-30 16:28:43,0 0 1 0 0 1 0 0 0 0
+3903,Video Title 3903,business physics psychology,51000,,2023-07-30 07:50:09,0 0 1 0 0 0 0 0 1 1
+1165,Video Title 1165,computer_science mathematics,36000,,2023-07-29 06:45:21,0 0 0 0 1 0 1 0 0 0
+2440,Video Title 2440,arts mathematics psychology,37000,,2023-07-28 00:07:26,1 0 0 0 0 0 1 0 0 1
+1069,Video Title 1069,chemistry physics,50000,,2023-07-26 18:33:17,0 0 0 1 0 0 0 0 1 0
+1052,Video Title 1052,chemistry music,50000,,2023-07-25 16:24:09,0 0 0 1 0 0 0 1 0 0
+2354,Video Title 2354,arts literature psychology,48000,,2023-07-25 02:16:19,1 0 0 0 0 1 0 0 0 1
+3940,Video Title 3940,chemistry computer_science literature,39000,,2023-07-24 11:55:47,0 0 0 1 1 1 0 0 0 0
+2760,Video Title 2760,biology chemistry computer_science,51000,,2023-07-23 14:18:01,0 1 0 1 1 0 0 0 0 0
+2741,Video Title 2741,biology business psychology,43000,,2023-07-22 09:02:31,0 1 1 0 0 0 0 0 0 1
+1179,Video Title 1179,computer_science music,39000,,2023-07-21 21:28:54,0 0 0 0 1 0 0 1 0 0
+4198,Video Title 4198,chemistry mathematics music,58000,,2023-07-21 01:45:02,0 0 0 1 0 0 1 1 0 0
+1731,Video Title 1731,arts biology physics,55000,,2023-07-19 13:13:27,1 1 0 0 0 0 0 0 1 0
+559,Video Title 559,biology business,42000,,2023-07-17 14:37:41,0 1 1 0 0 0 0 0 0 0
+1802,Video Title 1802,arts business computer_science,31000,,2023-07-17 09:21:21,1 0 1 0 1 0 0 0 0 0
+719,Video Title 719,biology physics,41000,,2023-07-15 14:42:16,0 1 0 0 0 0 0 0 1 0
+81,Video Title 81,business,47000,,2023-07-15 06:34:40,0 0 1 0 0 0 0 0 0 0
+991,Video Title 991,chemistry literature,35000,,2023-07-12 16:21:04,0 0 0 1 0 1 0 0 0 0
+2139,Video Title 2139,arts computer_science literature,52000,,2023-07-10 11:39:04,1 0 0 0 1 1 0 0 0 0
+4705,Video Title 4705,literature music physics,39000,,2023-07-10 09:37:48,0 0 0 0 0 1 0 1 1 0
+1602,Video Title 1602,arts biology computer_science,41000,,2023-07-09 05:21:17,1 1 0 0 1 0 0 0 0 0
+1986,Video Title 1986,arts chemistry computer_science,38000,,2023-07-08 13:36:09,1 0 0 1 1 0 0 0 0 0
+1819,Video Title 1819,arts business computer_science,30000,,2023-07-06 02:44:49,1 0 1 0 1 0 0 0 0 0
+479,Video Title 479,arts physics,48000,,2023-07-05 08:52:40,1 0 0 0 0 0 0 0 1 0
+3351,Video Title 3351,business chemistry computer_science,56000,,2023-07-05 03:39:47,0 0 1 1 1 0 0 0 0 0
+3589,Video Title 3589,business computer_science physics,36000,,2023-07-04 06:49:58,0 0 1 0 1 0 0 0 1 0
+3710,Video Title 3710,business literature physics,49000,,2023-07-03 14:06:37,0 0 1 0 0 1 0 0 1 0
+4345,Video Title 4345,computer_science literature mathematics,54000,,2023-07-02 16:26:28,0 0 0 0 1 1 1 0 0 0
+3243,Video Title 3243,biology mathematics psychology,49000,,2023-07-01 14:26:26,0 1 0 0 0 0 1 0 0 1
+348,Video Title 348,arts chemistry,30000,,2023-07-01 01:59:16,1 0 0 1 0 0 0 0 0 0
+437,Video Title 437,arts mathematics,48000,,2023-06-29 07:24:22,1 0 0 0 0 0 1 0 0 0
+248,Video Title 248,physics,32000,,2023-06-28 09:24:17,0 0 0 0 0 0 0 0 1 0
+999,Video Title 999,chemistry literature,44000,,2023-06-28 04:56:28,0 0 0 1 0 1 0 0 0 0
+1492,Video Title 1492,music psychology,30000,,2023-06-28 04:56:07,0 0 0 0 0 0 0 1 0 1
+4017,Video Title 4017,chemistry computer_science physics,38000,,2023-06-28 02:08:40,0 0 0 1 1 0 0 0 1 0
+2573,Video Title 2573,biology business chemistry,48000,,2023-06-27 19:09:23,0 1 1 1 0 0 0 0 0 0
+1945,Video Title 1945,arts business psychology,53000,,2023-06-27 17:33:12,1 0 1 0 0 0 0 0 0 1
+1745,Video Title 1745,arts biology psychology,31000,,2023-06-27 16:22:03,1 1 0 0 0 0 0 0 0 1
+987,Video Title 987,chemistry literature,55000,,2023-06-24 20:25:24,0 0 0 1 0 1 0 0 0 0
+3879,Video Title 3879,business music psychology,34000,,2023-06-24 10:19:16,0 0 1 0 0 0 0 1 0 1
+3848,Video Title 3848,business music physics,56000,,2023-06-23 04:30:25,0 0 1 0 0 0 0 1 1 0
+3410,Video Title 3410,business chemistry mathematics,37000,,2023-06-23 04:28:06,0 0 1 1 0 0 1 0 0 0
+4291,Video Title 4291,chemistry music psychology,35000,,2023-06-22 10:31:52,0 0 0 1 0 0 0 1 0 1
+2726,Video Title 2726,biology business psychology,40000,,2023-06-21 14:33:17,0 1 1 0 0 0 0 0 0 1
+2878,Video Title 2878,biology chemistry physics,45000,,2023-06-21 09:28:40,0 1 0 1 0 0 0 0 1 0
+93,Video Title 93,chemistry,45000,,2023-06-20 23:56:39,0 0 0 1 0 0 0 0 0 0
+315,Video Title 315,arts business,48000,,2023-06-18 03:02:02,1 0 1 0 0 0 0 0 0 0
+692,Video Title 692,biology music,37000,,2023-06-15 18:24:37,0 1 0 0 0 0 0 1 0 0
+3805,Video Title 3805,business mathematics physics,46000,,2023-06-15 10:13:38,0 0 1 0 0 0 1 0 1 0
+586,Video Title 586,biology chemistry,44000,,2023-06-15 02:38:29,0 1 0 1 0 0 0 0 0 0
+1095,Video Title 1095,chemistry psychology,32000,,2023-06-15 02:23:37,0 0 0 1 0 0 0 0 0 1
+1390,Video Title 1390,mathematics music,32000,,2023-06-14 22:28:42,0 0 0 0 0 0 1 1 0 0
+3124,Video Title 3124,biology literature physics,50000,,2023-06-14 21:27:35,0 1 0 0 0 1 0 0 1 0
+621,Video Title 621,biology literature,56000,,2023-06-11 06:51:09,0 1 0 0 0 1 0 0 0 0
+425,Video Title 425,arts mathematics,52000,,2023-06-10 22:15:00,1 0 0 0 0 0 1 0 0 0
+1842,Video Title 1842,arts business literature,32000,,2023-06-08 23:23:25,1 0 1 0 0 1 0 0 0 0
+639,Video Title 639,biology literature,58000,,2023-06-07 13:36:58,0 1 0 0 0 1 0 0 0 0
+4201,Video Title 4201,chemistry mathematics physics,42000,,2023-06-07 13:00:13,0 0 0 1 0 0 1 0 1 0
+471,Video Title 471,arts music,42000,,2023-06-05 18:26:19,1 0 0 0 0 0 0 1 0 0
+4076,Video Title 4076,chemistry literature mathematics,50000,,2023-06-04 18:30:11,0 0 0 1 0 1 1 0 0 0
+1941,Video Title 1941,arts business psychology,52000,,2023-06-03 00:28:24,1 0 1 0 0 0 0 0 0 1
+156,Video Title 156,literature,33000,,2023-06-01 19:49:14,0 0 0 0 0 1 0 0 0 0
+1328,Video Title 1328,literature physics,41000,,2023-06-01 18:58:10,0 0 0 0 0 1 0 0 1 0
+1167,Video Title 1167,computer_science mathematics,37000,,2023-06-01 10:08:01,0 0 0 0 1 0 1 0 0 0
+1724,Video Title 1724,arts biology physics,54000,,2023-05-31 16:03:42,1 1 0 0 0 0 0 0 1 0
+729,Video Title 729,biology psychology,51000,,2023-05-31 02:58:35,0 1 0 0 0 0 0 0 0 1
+1049,Video Title 1049,chemistry music,60000,,2023-05-30 07:11:42,0 0 0 1 0 0 0 1 0 0
+636,Video Title 636,biology literature,50000,,2023-05-28 01:34:10,0 1 0 0 0 1 0 0 0 0
+2477,Video Title 2477,arts music physics,56000,,2023-05-26 02:11:50,1 0 0 0 0 0 0 1 1 0
+2773,Video Title 2773,biology chemistry literature,45000,,2023-05-25 17:43:38,0 1 0 1 0 1 0 0 0 0
+4272,Video Title 4272,chemistry music physics,55000,,2023-05-24 21:02:10,0 0 0 1 0 0 0 1 1 0
+2576,Video Title 2576,biology business chemistry,45000,,2023-05-23 23:45:09,0 1 1 1 0 0 0 0 0 0
+3206,Video Title 3206,biology mathematics physics,49000,,2023-05-23 20:35:17,0 1 0 0 0 0 1 0 1 0
+4491,Video Title 4491,computer_science mathematics physics,49000,,2023-05-23 05:17:17,0 0 0 0 1 0 1 0 1 0
+1116,Video Title 1116,chemistry psychology,47000,,2023-05-23 03:53:40,0 0 0 1 0 0 0 0 0 1
+3587,Video Title 3587,business computer_science physics,31000,,2023-05-21 13:04:44,0 0 1 0 1 0 0 0 1 0
+855,Video Title 855,business mathematics,52000,,2023-05-19 16:59:33,0 0 1 0 0 0 1 0 0 0
+4808,Video Title 4808,mathematics music physics,30000,,2023-05-19 07:11:46,0 0 0 0 0 0 1 1 1 0
+4613,Video Title 4613,computer_science physics psychology,58000,,2023-05-18 00:27:13,0 0 0 0 1 0 0 0 1 1
+2930,Video Title 2930,biology computer_science literature,53000,,2023-05-17 14:04:22,0 1 0 0 1 1 0 0 0 0
+1301,Video Title 1301,literature music,36000,,2023-05-17 13:08:51,0 0 0 0 0 1 0 1 0 0
+1354,Video Title 1354,literature psychology,36000,,2023-05-16 15:11:42,0 0 0 0 0 1 0 0 0 1
+2845,Video Title 2845,biology chemistry music,32000,,2023-05-15 07:07:29,0 1 0 1 0 0 0 1 0 0
+1204,Video Title 1204,computer_science music,57000,,2023-05-14 20:14:15,0 0 0 0 1 0 0 1 0 0
+1210,Video Title 1210,computer_science physics,35000,,2023-05-14 14:55:33,0 0 0 0 1 0 0 0 1 0
+1659,Video Title 1659,arts biology mathematics,52000,,2023-05-13 15:02:36,1 1 0 0 0 0 1 0 0 0
+4242,Video Title 4242,chemistry mathematics psychology,32000,,2023-05-13 13:50:33,0 0 0 1 0 0 1 0 0 1
+4688,Video Title 4688,literature mathematics psychology,51000,,2023-05-13 01:31:35,0 0 0 0 0 1 1 0 0 1
+2376,Video Title 2376,arts literature psychology,53000,,2023-05-10 14:51:28,1 0 0 0 0 1 0 0 0 1
+4214,Video Title 4214,chemistry mathematics physics,37000,,2023-05-10 13:48:30,0 0 0 1 0 0 1 0 1 0
+4831,Video Title 4831,mathematics music psychology,50000,,2023-05-08 23:19:34,0 0 0 0 0 0 1 1 0 1
+1196,Video Title 1196,computer_science music,50000,,2023-05-08 20:48:42,0 0 0 0 1 0 0 1 0 0
+161,Video Title 161,literature,40000,,2023-05-07 16:16:05,0 0 0 0 0 1 0 0 0 0
+1278,Video Title 1278,literature mathematics,31000,,2023-05-07 05:27:11,0 0 0 0 0 1 1 0 0 0
+1172,Video Title 1172,computer_science mathematics,59000,,2023-05-06 20:55:12,0 0 0 0 1 0 1 0 0 0
+2306,Video Title 2306,arts literature music,50000,,2023-05-06 10:56:11,1 0 0 0 0 1 0 1 0 0
+3545,Video Title 3545,business computer_science mathematics,49000,,2023-05-04 21:18:23,0 0 1 0 1 0 1 0 0 0
+1736,Video Title 1736,arts biology physics,41000,,2023-05-04 19:46:39,1 1 0 0 0 0 0 0 1 0
+1207,Video Title 1207,computer_science physics,35000,,2023-05-04 19:37:14,0 0 0 0 1 0 0 0 1 0
+461,Video Title 461,arts music,55000,,2023-05-03 21:21:25,1 0 0 0 0 0 0 1 0 0
+3022,Video Title 3022,biology computer_science physics,44000,,2023-05-03 08:20:57,0 1 0 0 1 0 0 0 1 0
+3177,Video Title 3177,biology mathematics music,50000,,2023-05-02 08:42:09,0 1 0 0 0 0 1 1 0 0
+3925,Video Title 3925,chemistry computer_science literature,32000,,2023-05-02 00:12:08,0 0 0 1 1 1 0 0 0 0
+1184,Video Title 1184,computer_science music,38000,,2023-05-01 12:53:47,0 0 0 0 1 0 0 1 0 0
+2523,Video Title 2523,arts physics psychology,54000,,2023-04-29 03:36:00,1 0 0 0 0 0 0 0 1 1
+3804,Video Title 3804,business mathematics physics,53000,,2023-04-28 16:30:36,0 0 1 0 0 0 1 0 1 0
+2851,Video Title 2851,biology chemistry music,50000,,2023-04-26 07:14:50,0 1 0 1 0 0 0 1 0 0
+4207,Video Title 4207,chemistry mathematics physics,54000,,2023-04-26 04:16:21,0 0 0 1 0 0 1 0 1 0
+2747,Video Title 2747,biology chemistry computer_science,47000,,2023-04-25 14:18:38,0 1 0 1 1 0 0 0 0 0
+1791,Video Title 1791,arts business chemistry,35000,,2023-04-24 17:37:21,1 0 1 1 0 0 0 0 0 0
+911,Video Title 911,business physics,40000,,2023-04-23 12:20:57,0 0 1 0 0 0 0 0 1 0
+2695,Video Title 2695,biology business physics,42000,,2023-04-23 00:00:18,0 1 1 0 0 0 0 0 1 0
+4414,Video Title 4414,computer_science literature physics,34000,,2023-04-22 22:28:58,0 0 0 0 1 1 0 0 1 0
+906,Video Title 906,business physics,41000,,2023-04-22 05:20:26,0 0 1 0 0 0 0 0 1 0
+211,Video Title 211,music,59000,,2023-04-20 01:34:37,0 0 0 0 0 0 0 1 0 0
+1678,Video Title 1678,arts biology mathematics,33000,,2023-04-18 10:19:11,1 1 0 0 0 0 1 0 0 0
+166,Video Title 166,literature,40000,,2023-04-16 22:00:21,0 0 0 0 0 1 0 0 0 0
+1435,Video Title 1435,mathematics psychology,35000,,2023-04-15 23:55:59,0 0 0 0 0 0 1 0 0 1
+2996,Video Title 2996,biology computer_science music,45000,,2023-04-14 16:09:56,0 1 0 0 1 0 0 1 0 0
+4294,Video Title 4294,chemistry music psychology,59000,,2023-04-14 05:45:17,0 0 0 1 0 0 0 1 0 1
+2493,Video Title 2493,arts music psychology,41000,,2023-04-13 08:58:58,1 0 0 0 0 0 0 1 0 1
+4240,Video Title 4240,chemistry mathematics psychology,42000,,2023-04-11 09:38:53,0 0 0 1 0 0 1 0 0 1
+1022,Video Title 1022,chemistry mathematics,52000,,2023-04-10 17:37:20,0 0 0 1 0 0 1 0 0 0
+4353,Video Title 4353,computer_science literature mathematics,58000,,2023-04-10 07:16:31,0 0 0 0 1 1 1 0 0 0
+3198,Video Title 3198,biology mathematics physics,35000,,2023-04-09 22:14:27,0 1 0 0 0 0 1 0 1 0
+4341,Video Title 4341,computer_science literature mathematics,54000,,2023-04-08 12:23:55,0 0 0 0 1 1 1 0 0 0
+4531,Video Title 4531,computer_science mathematics psychology,31000,,2023-04-08 04:58:18,0 0 0 0 1 0 1 0 0 1
+2350,Video Title 2350,arts literature physics,31000,,2023-04-08 04:29:02,1 0 0 0 0 1 0 0 1 0
+4252,Video Title 4252,chemistry mathematics psychology,43000,,2023-04-07 17:09:23,0 0 0 1 0 0 1 0 0 1
+2409,Video Title 2409,arts mathematics physics,31000,,2023-04-07 16:04:10,1 0 0 0 0 0 1 0 1 0
+133,Video Title 133,computer_science,32000,,2023-04-07 05:44:51,0 0 0 0 1 0 0 0 0 0
+4338,Video Title 4338,chemistry physics psychology,41000,,2023-04-06 18:21:53,0 0 0 1 0 0 0 0 1 1
+3699,Video Title 3699,business literature physics,35000,,2023-04-06 09:35:50,0 0 1 0 0 1 0 0 1 0
+1838,Video Title 1838,arts business literature,40000,,2023-04-06 01:16:29,1 0 1 0 0 1 0 0 0 0
+4059,Video Title 4059,chemistry computer_science psychology,53000,,2023-04-03 07:25:53,0 0 0 1 1 0 0 0 0 1
+2059,Video Title 2059,arts chemistry music,33000,,2023-04-01 23:42:26,1 0 0 1 0 0 0 1 0 0
+3478,Video Title 3478,business chemistry psychology,56000,,2023-03-31 08:37:37,0 0 1 1 0 0 0 0 0 1
+2359,Video Title 2359,arts literature psychology,45000,,2023-03-30 22:53:18,1 0 0 0 0 1 0 0 0 1
+4028,Video Title 4028,chemistry computer_science physics,33000,,2023-03-30 10:43:54,0 0 0 1 1 0 0 0 1 0
+812,Video Title 812,business computer_science,51000,,2023-03-30 03:54:46,0 0 1 0 1 0 0 0 0 0
+3091,Video Title 3091,biology literature music,51000,,2023-03-30 02:29:45,0 1 0 0 0 1 0 1 0 0
+1879,Video Title 1879,arts business music,35000,,2023-03-30 01:56:20,1 0 1 0 0 0 0 1 0 0
+1060,Video Title 1060,chemistry music,56000,,2023-03-29 08:14:38,0 0 0 1 0 0 0 1 0 0
+3359,Video Title 3359,business chemistry computer_science,40000,,2023-03-28 06:34:51,0 0 1 1 1 0 0 0 0 0
+720,Video Title 720,biology physics,51000,,2023-03-25 21:29:20,0 1 0 0 0 0 0 0 1 0
+3725,Video Title 3725,business literature psychology,51000,,2023-03-24 18:09:29,0 0 1 0 0 1 0 0 0 1
+2631,Video Title 2631,biology business literature,40000,,2023-03-23 14:01:49,0 1 1 0 0 1 0 0 0 0
+3889,Video Title 3889,business music psychology,59000,,2023-03-23 08:47:17,0 0 1 0 0 0 0 1 0 1
+3324,Video Title 3324,biology physics psychology,40000,,2023-03-23 07:42:26,0 1 0 0 0 0 0 0 1 1
+1342,Video Title 1342,literature physics,32000,,2023-03-23 03:00:24,0 0 0 0 0 1 0 0 1 0
+522,Video Title 522,arts psychology,36000,,2023-03-21 19:38:59,1 0 0 0 0 0 0 0 0 1
+4740,Video Title 4740,literature music psychology,59000,,2023-03-21 14:37:06,0 0 0 0 0 1 0 1 0 1
+4498,Video Title 4498,computer_science mathematics physics,40000,,2023-03-21 08:02:17,0 0 0 0 1 0 1 0 1 0
+1205,Video Title 1205,computer_science physics,59000,,2023-03-20 08:50:57,0 0 0 0 1 0 0 0 1 0
+4782,Video Title 4782,literature physics psychology,51000,,2023-03-20 02:31:30,0 0 0 0 0 1 0 0 1 1
+468,Video Title 468,arts music,48000,,2023-03-19 08:27:55,1 0 0 0 0 0 0 1 0 0
+2360,Video Title 2360,arts literature psychology,54000,,2023-03-19 05:49:07,1 0 0 0 0 1 0 0 0 1
+1960,Video Title 1960,arts business psychology,40000,,2023-03-18 18:56:51,1 0 1 0 0 0 0 0 0 1
+564,Video Title 564,biology chemistry,51000,,2023-03-18 09:23:20,0 1 0 1 0 0 0 0 0 0
+1753,Video Title 1753,arts biology psychology,46000,,2023-03-18 09:01:03,1 1 0 0 0 0 0 0 0 1
+1548,Video Title 1548,arts biology business,43000,,2023-03-16 23:57:53,1 1 1 0 0 0 0 0 0 0
+1152,Video Title 1152,computer_science mathematics,49000,,2023-03-16 21:38:06,0 0 0 0 1 0 1 0 0 0
+4582,Video Title 4582,computer_science music psychology,49000,,2023-03-16 15:28:18,0 0 0 0 1 0 0 1 0 1
+1525,Video Title 1525,physics psychology,59000,,2023-03-16 10:21:19,0 0 0 0 0 0 0 0 1 1
+3273,Video Title 3273,biology music physics,40000,,2023-03-16 09:41:58,0 1 0 0 0 0 0 1 1 0
+1790,Video Title 1790,arts business chemistry,42000,,2023-03-15 19:50:43,1 0 1 1 0 0 0 0 0 0
+2759,Video Title 2759,biology chemistry computer_science,33000,,2023-03-15 16:28:48,0 1 0 1 1 0 0 0 0 0
+4896,Video Title 4896,music physics psychology,37000,,2023-03-14 19:56:04,0 0 0 0 0 0 0 1 1 1
+150,Video Title 150,literature,46000,,2023-03-12 18:18:45,0 0 0 0 0 1 0 0 0 0
+2715,Video Title 2715,biology business physics,32000,,2023-03-11 23:56:31,0 1 1 0 0 0 0 0 1 0
+1596,Video Title 1596,arts biology chemistry,52000,,2023-03-11 22:30:11,1 1 0 1 0 0 0 0 0 0
+3041,Video Title 3041,biology computer_science psychology,38000,,2023-03-11 18:13:06,0 1 0 0 1 0 0 0 0 1
+3222,Video Title 3222,biology mathematics psychology,49000,,2023-03-11 11:16:30,0 1 0 0 0 0 1 0 0 1
+2454,Video Title 2454,arts mathematics psychology,49000,,2023-03-09 21:59:57,1 0 0 0 0 0 1 0 0 1
+4254,Video Title 4254,chemistry mathematics psychology,58000,,2023-03-09 16:38:49,0 0 0 1 0 0 1 0 0 1
+3459,Video Title 3459,business chemistry physics,39000,,2023-03-09 12:44:31,0 0 1 1 0 0 0 0 1 0
+2215,Video Title 2215,arts computer_science physics,59000,,2023-03-08 10:47:37,1 0 0 0 1 0 0 0 1 0
+4440,Video Title 4440,computer_science literature psychology,60000,,2023-03-08 02:36:17,0 0 0 0 1 1 0 0 0 1
+3569,Video Title 3569,business computer_science music,49000,,2023-03-07 20:28:50,0 0 1 0 1 0 0 1 0 0
+3669,Video Title 3669,business literature music,59000,,2023-03-07 18:28:15,0 0 1 0 0 1 0 1 0 0
+840,Video Title 840,business literature,41000,,2023-03-07 11:15:45,0 0 1 0 0 1 0 0 0 0
+1931,Video Title 1931,arts business physics,40000,,2023-03-07 07:42:21,1 0 1 0 0 0 0 0 1 0
+3050,Video Title 3050,biology computer_science psychology,48000,,2023-03-07 06:26:45,0 1 0 0 1 0 0 0 0 1
+4424,Video Title 4424,computer_science literature physics,32000,,2023-03-05 03:39:22,0 0 0 0 1 1 0 0 1 0
+3414,Video Title 3414,business chemistry mathematics,52000,,2023-03-05 00:21:48,0 0 1 1 0 0 1 0 0 0
+1937,Video Title 1937,arts business psychology,52000,,2023-03-04 20:50:07,1 0 1 0 0 0 0 0 0 1
+2052,Video Title 2052,arts chemistry music,44000,,2023-03-04 15:23:00,1 0 0 1 0 0 0 1 0 0
+1286,Video Title 1286,literature mathematics,57000,,2023-03-04 11:16:50,0 0 0 0 0 1 1 0 0 0
+4825,Video Title 4825,mathematics music psychology,32000,,2023-03-04 00:46:53,0 0 0 0 0 0 1 1 0 1
+1386,Video Title 1386,mathematics music,35000,,2023-03-03 16:23:11,0 0 0 0 0 0 1 1 0 0
+3325,Video Title 3325,biology physics psychology,45000,,2023-02-28 23:53:00,0 1 0 0 0 0 0 0 1 1
+484,Video Title 484,arts physics,44000,,2023-02-28 15:58:34,1 0 0 0 0 0 0 0 1 0
+2457,Video Title 2457,arts mathematics psychology,42000,,2023-02-28 03:40:51,1 0 0 0 0 0 1 0 0 1
+2367,Video Title 2367,arts literature psychology,49000,,2023-02-28 01:44:13,1 0 0 0 0 1 0 0 0 1
+4245,Video Title 4245,chemistry mathematics psychology,35000,,2023-02-28 00:02:03,0 0 0 1 0 0 1 0 0 1
+1796,Video Title 1796,arts business computer_science,43000,,2023-02-27 20:52:38,1 0 1 0 1 0 0 0 0 0
+640,Video Title 640,biology literature,40000,,2023-02-25 16:25:03,0 1 0 0 0 1 0 0 0 0
+3931,Video Title 3931,chemistry computer_science literature,54000,,2023-02-24 06:47:48,0 0 0 1 1 1 0 0 0 0
+51,Video Title 51,biology,58000,,2023-02-23 02:22:07,0 1 0 0 0 0 0 0 0 0
+1357,Video Title 1357,literature psychology,45000,,2023-02-22 17:03:27,0 0 0 0 0 1 0 0 0 1
+3928,Video Title 3928,chemistry computer_science literature,50000,,2023-02-22 14:21:34,0 0 0 1 1 1 0 0 0 0
+1530,Video Title 1530,physics psychology,50000,,2023-02-22 13:32:57,0 0 0 0 0 0 0 0 1 1
+1368,Video Title 1368,literature psychology,40000,,2023-02-22 07:21:06,0 0 0 0 0 1 0 0 0 1
+2505,Video Title 2505,arts music psychology,58000,,2023-02-21 17:11:49,1 0 0 0 0 0 0 1 0 1
+1793,Video Title 1793,arts business computer_science,55000,,2023-02-20 21:48:57,1 0 1 0 1 0 0 0 0 0
+3772,Video Title 3772,business mathematics music,34000,,2023-02-20 04:54:48,0 0 1 0 0 0 1 1 0 0
+541,Video Title 541,biology business,52000,,2023-02-19 00:28:57,0 1 1 0 0 0 0 0 0 0
+3355,Video Title 3355,business chemistry computer_science,36000,,2023-02-18 17:47:48,0 0 1 1 1 0 0 0 0 0
+3458,Video Title 3458,business chemistry physics,55000,,2023-02-18 04:41:37,0 0 1 1 0 0 0 0 1 0
+579,Video Title 579,biology chemistry,45000,,2023-02-16 19:49:18,0 1 0 1 0 0 0 0 0 0
+76,Video Title 76,business,46000,,2023-02-16 02:11:55,0 0 1 0 0 0 0 0 0 0
+2163,Video Title 2163,arts computer_science mathematics,54000,,2023-02-16 01:55:45,1 0 0 0 1 0 1 0 0 0
+3615,Video Title 3615,business computer_science psychology,33000,,2023-02-16 00:34:04,0 0 1 0 1 0 0 0 0 1
+3961,Video Title 3961,chemistry computer_science mathematics,50000,,2023-02-14 04:21:53,0 0 0 1 1 0 1 0 0 0
+984,Video Title 984,chemistry literature,57000,,2023-02-12 08:47:36,0 0 0 1 0 1 0 0 0 0
+2118,Video Title 2118,arts chemistry psychology,45000,,2023-02-12 00:45:08,1 0 0 1 0 0 0 0 0 1
+2417,Video Title 2417,arts mathematics physics,37000,,2023-02-11 22:12:23,1 0 0 0 0 0 1 0 1 0
+3723,Video Title 3723,business literature physics,60000,,2023-02-11 22:01:51,0 0 1 0 0 1 0 0 1 0
+2484,Video Title 2484,arts music physics,37000,,2023-02-10 02:25:26,1 0 0 0 0 0 0 1 1 0
+2047,Video Title 2047,arts chemistry music,40000,,2023-02-09 10:28:22,1 0 0 1 0 0 0 1 0 0
+904,Video Title 904,business physics,60000,,2023-02-08 08:14:02,0 0 1 0 0 0 0 0 1 0
+3537,Video Title 3537,business computer_science mathematics,35000,,2023-02-06 23:31:06,0 0 1 0 1 0 1 0 0 0
+4239,Video Title 4239,chemistry mathematics psychology,30000,,2023-02-05 17:31:30,0 0 0 1 0 0 1 0 0 1
+3157,Video Title 3157,biology literature psychology,39000,,2023-02-05 12:49:13,0 1 0 0 0 1 0 0 0 1
+700,Video Title 700,biology music,52000,,2023-02-05 09:47:33,0 1 0 0 0 0 0 1 0 0
+3164,Video Title 3164,biology literature psychology,46000,,2023-02-04 21:41:37,0 1 0 0 0 1 0 0 0 1
+1682,Video Title 1682,arts biology music,52000,,2023-02-04 08:04:19,1 1 0 0 0 0 0 1 0 0
+4497,Video Title 4497,computer_science mathematics physics,48000,,2023-02-03 02:32:43,0 0 0 0 1 0 1 0 1 0
+1353,Video Title 1353,literature psychology,60000,,2023-02-02 19:53:18,0 0 0 0 0 1 0 0 0 1
+4008,Video Title 4008,chemistry computer_science physics,33000,,2023-02-01 03:09:59,0 0 0 1 1 0 0 0 1 0
+443,Video Title 443,arts mathematics,44000,,2023-02-01 00:59:00,1 0 0 0 0 0 1 0 0 0
+3907,Video Title 3907,business physics psychology,31000,,2023-01-31 19:57:10,0 0 1 0 0 0 0 0 1 1
+361,Video Title 361,arts chemistry,51000,,2023-01-30 07:05:26,1 0 0 1 0 0 0 0 0 0
+2581,Video Title 2581,biology business computer_science,46000,,2023-01-29 04:48:20,0 1 1 0 1 0 0 0 0 0
+4308,Video Title 4308,chemistry music psychology,44000,,2023-01-27 17:57:12,0 0 0 1 0 0 0 1 0 1
+2829,Video Title 2829,biology chemistry music,57000,,2023-01-26 19:35:57,0 1 0 1 0 0 0 1 0 0
+4383,Video Title 4383,computer_science literature music,53000,,2023-01-26 02:32:41,0 0 0 0 1 1 0 1 0 0
+2558,Video Title 2558,biology business chemistry,36000,,2023-01-24 00:11:36,0 1 1 1 0 0 0 0 0 0
+2516,Video Title 2516,arts music psychology,43000,,2023-01-21 13:00:55,1 0 0 0 0 0 0 1 0 1
+3760,Video Title 3760,business mathematics music,49000,,2023-01-21 08:38:29,0 0 1 0 0 0 1 1 0 0
+108,Video Title 108,chemistry,32000,,2023-01-20 18:47:35,0 0 0 1 0 0 0 0 0 0
+4228,Video Title 4228,chemistry mathematics physics,60000,,2023-01-20 02:05:53,0 0 0 1 0 0 1 0 1 0
+1479,Video Title 1479,music physics,47000,,2023-01-20 00:11:00,0 0 0 0 0 0 0 1 1 0
+314,Video Title 314,arts business,42000,,2023-01-18 15:51:02,1 0 1 0 0 0 0 0 0 0
+3866,Video Title 3866,business music psychology,52000,,2023-01-18 04:41:47,0 0 1 0 0 0 0 1 0 1
+2453,Video Title 2453,arts mathematics psychology,37000,,2023-01-17 09:53:23,1 0 0 0 0 0 1 0 0 1
+4865,Video Title 4865,mathematics physics psychology,36000,,2023-01-16 22:48:40,0 0 0 0 0 0 1 0 1 1
+3515,Video Title 3515,business computer_science literature,31000,,2023-01-14 02:04:11,0 0 1 0 1 1 0 0 0 0
+3450,Video Title 3450,business chemistry physics,48000,,2023-01-12 21:13:33,0 0 1 1 0 0 0 0 1 0
+4339,Video Title 4339,chemistry physics psychology,39000,,2023-01-11 04:38:18,0 0 0 1 0 0 0 0 1 1
+878,Video Title 878,business music,55000,,2023-01-10 16:39:50,0 0 1 0 0 0 0 1 0 0
+1088,Video Title 1088,chemistry physics,57000,,2023-01-09 10:25:42,0 0 0 1 0 0 0 0 1 0
+2639,Video Title 2639,biology business mathematics,45000,,2023-01-06 20:52:47,0 1 1 0 0 0 1 0 0 0
+4013,Video Title 4013,chemistry computer_science physics,48000,,2023-01-05 06:55:06,0 0 0 1 1 0 0 0 1 0
+3466,Video Title 3466,business chemistry physics,41000,,2023-01-04 22:13:51,0 0 1 1 0 0 0 0 1 0
+1813,Video Title 1813,arts business computer_science,53000,,2023-01-02 14:49:58,1 0 1 0 1 0 0 0 0 0
+4662,Video Title 4662,literature mathematics physics,44000,,2023-01-02 01:09:59,0 0 0 0 0 1 1 0 1 0
+4581,Video Title 4581,computer_science music psychology,38000,,2023-01-01 18:15:59,0 0 0 0 1 0 0 1 0 1
+2532,Video Title 2532,arts physics psychology,32000,,2023-01-01 10:23:18,1 0 0 0 0 0 0 0 1 1
+2142,Video Title 2142,arts computer_science literature,37000,,2022-12-30 20:35:06,1 0 0 0 1 1 0 0 0 0
+101,Video Title 101,chemistry,44000,,2022-12-30 14:11:37,0 0 0 1 0 0 0 0 0 0
+4713,Video Title 4713,literature music physics,56000,,2022-12-30 04:19:54,0 0 0 0 0 1 0 1 1 0
+1433,Video Title 1433,mathematics psychology,38000,,2022-12-29 11:42:02,0 0 0 0 0 0 1 0 0 1
+701,Video Title 701,biology physics,32000,,2022-12-29 07:46:07,0 1 0 0 0 0 0 0 1 0
+203,Video Title 203,music,41000,,2022-12-28 06:46:42,0 0 0 0 0 0 0 1 0 0
+205,Video Title 205,music,31000,,2022-12-28 01:47:53,0 0 0 0 0 0 0 1 0 0
+1135,Video Title 1135,computer_science literature,55000,,2022-12-27 11:59:53,0 0 0 0 1 1 0 0 0 0
+1014,Video Title 1014,chemistry mathematics,35000,,2022-12-27 04:16:59,0 0 0 1 0 0 1 0 0 0
+3254,Video Title 3254,biology music physics,33000,,2022-12-26 16:16:17,0 1 0 0 0 0 0 1 1 0
+2592,Video Title 2592,biology business computer_science,50000,,2022-12-25 12:39:06,0 1 1 0 1 0 0 0 0 0
+1990,Video Title 1990,arts chemistry literature,60000,,2022-12-25 03:40:39,1 0 0 1 0 1 0 0 0 0
+4560,Video Title 4560,computer_science music physics,43000,,2022-12-24 22:30:59,0 0 0 0 1 0 0 1 1 0
+3834,Video Title 3834,business mathematics psychology,42000,,2022-12-24 12:03:26,0 0 1 0 0 0 1 0 0 1
+3820,Video Title 3820,business mathematics psychology,41000,,2022-12-24 10:56:02,0 0 1 0 0 0 1 0 0 1
+3283,Video Title 3283,biology music psychology,41000,,2022-12-22 23:36:30,0 1 0 0 0 0 0 1 0 1
+1828,Video Title 1828,arts business literature,37000,,2022-12-22 02:22:57,1 0 1 0 0 1 0 0 0 0
+3150,Video Title 3150,biology literature psychology,40000,,2022-12-21 16:33:27,0 1 0 0 0 1 0 0 0 1
+3981,Video Title 3981,chemistry computer_science music,55000,,2022-12-21 06:10:11,0 0 0 1 1 0 0 1 0 0
+2073,Video Title 2073,arts chemistry physics,38000,,2022-12-21 03:56:50,1 0 0 1 0 0 0 0 1 0
+2766,Video Title 2766,biology chemistry computer_science,58000,,2022-12-21 01:10:48,0 1 0 1 1 0 0 0 0 0
